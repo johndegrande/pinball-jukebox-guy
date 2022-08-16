@@ -1,0 +1,6 @@
+[04-Aug-2020 01:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/johndegrande16/public_html/_sites/pinballguy/old/v1/admin/dbstuff.php:6
+Stack trace:
+#0 /home/johndegrande16/public_html/_sites/pinballguy/old/v1/scripts/header.php(2): include()
+#1 /home/johndegrande16/public_html/_sites/pinballguy/old/v1/index.php(1): include('/home/johndegra...')
+#2 {main}
+  thrown in /home/johndegrande16/public_html/_sites/pinballguy/old/v1/admin/dbstuff.php on line 6

@@ -1,0 +1,30 @@
+/* Add here all your CSS customizations */
+
+body, #footer { font-size: 16px; }
+.testimonial .testimonial-author span { font-size: 16px; }
+.testimonial .testimonial-author strong { font-size: 20px; }
+
+/* Dark */
+html.dark body { background-color: #171717; }
+
+/* Header */
+.tp-bgimg { background-position: center !important; }
+
+/* Testimonial */
+.testimonial .testimonial-author .text-center { text-align: center; margin: 0; }
+.testimonial .testimonial-author { margin: 0; }
+.testimonial.testimonial-style-2 blockquote p { color: #171717; }
+
+/* Features */
+.featured-box { height: 194px; }
+
+/* Social Icons */
+.social-icons { margin-top: 25px; }
+
+/* Facebook Photos */
+.portfolio-image { position: relative; overflow: hidden; background-size: cover; background-position: center; }
+
+/* Keep for SEO */
+@media print {
+
+}
